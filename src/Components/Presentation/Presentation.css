@@ -24,6 +24,7 @@
     justify-content: center;
     -webkit-align-items: center;
     align-items: center;
+    z-index: 2;
 }
 
 .presentation__container h1 {
