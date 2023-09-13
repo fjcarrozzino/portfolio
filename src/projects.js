@@ -1,4 +1,5 @@
 import { AmazingEventsScreenshots } from "./Assets/AmazingEventsScreenshots";
+import { LostPetsScreenshots } from "./Assets/LostPetsScreenshots";
 import { MyTineraryScreenshots } from "./Assets/MyTineraryScreenshots";
 import { TecnocelScreenshots } from "./Assets/TecnocelScreenshots";
 import { TortasLinaScreenshots } from "./Assets/TortasLinaScreenshots";
