@@ -6,7 +6,7 @@ const Presentation = () => {
     <div className='presentation__container'>
         <h1>Hi, I'm Francisco <br/>
             a Full Stack Developer <br/>
-            based in Argentina.</h1>
+        </h1>
     </div>
   )
 }
